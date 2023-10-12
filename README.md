@@ -6,3 +6,4 @@
 - [Dash 2.9.0版本重磅新功能一览](https://www.cnblogs.com/feffery/p/17227380.html) 　:airplane:[仓库路径](./历史文章/Dash2.9.0版本重磅新功能一览)
 - [10分钟极速入门dash应用开发](https://www.cnblogs.com/feffery/p/17333077.html) 　:airplane:[仓库路径](./历史文章/10分钟极速入门dash应用开发)
 - [Dash应用页面整体布局技巧](https://www.cnblogs.com/feffery/p/17498581.html) 　:airplane:[仓库路径](./历史文章/Dash应用页面整体布局技巧)
+- [Dash 2.14版本开始支持动态回调注册！](https://www.cnblogs.com/feffery/p/17759046.html) 　:airplane:[仓库路径](./历史文章/Dash2.14版本开始支持动态回调注册！)
