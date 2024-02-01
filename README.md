@@ -9,3 +9,4 @@
 - [Dash 2.14版本开始支持动态回调注册！](https://www.cnblogs.com/feffery/p/17759046.html) 　:airplane:[仓库路径](./历史文章/Dash2.14版本开始支持动态回调注册！)
 - [在Dash中更灵活地编写回调函数](https://www.cnblogs.com/feffery/p/17834387.html) 　:airplane:[仓库路径](./历史文章/在Dash中更灵活地编写回调函数)
 - [Dash应用浏览器端回调常用方法总结](https://www.cnblogs.com/feffery/p/17839235.html) 　:airplane:[仓库路径](./历史文章/Dash应用浏览器端回调常用方法总结)
+- [Dash 2.15版本新特性介绍](https://www.cnblogs.com/feffery/p/18000994) 　:airplane:[仓库路径](./历史文章/Dash2.15版本新特性介绍)
