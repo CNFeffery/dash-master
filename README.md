@@ -11,3 +11,4 @@
 - [Dash应用浏览器端回调常用方法总结](https://www.cnblogs.com/feffery/p/17839235.html) 　✈️[仓库路径](./历史文章/Dash应用浏览器端回调常用方法总结)
 - [Dash 2.15版本新特性介绍](https://www.cnblogs.com/feffery/p/18000994) 　✈️[仓库路径](./历史文章/Dash2.15版本新特性介绍)
 - [Dash 2.16版本新特性介绍](https://www.cnblogs.com/feffery/p/18058655) 　✈️[仓库路径](./历史文章/Dash2.16版本新特性介绍)
+- [Dash 2.17版本新特性介绍](https://www.cnblogs.com/feffery/p/18175843) 　✈️[仓库路径](./历史文章/Dash2.17版本新特性介绍)
