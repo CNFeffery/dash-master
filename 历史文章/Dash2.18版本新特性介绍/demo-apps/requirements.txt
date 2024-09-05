@@ -1,0 +1,3 @@
+dash==2.18.0
+feffery_antd_components==0.3.3
+feffery_dash_utils==0.1.3
