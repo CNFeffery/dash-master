@@ -13,3 +13,5 @@
 - [Dash 2.16版本新特性介绍](https://www.cnblogs.com/feffery/p/18058655) 　✈️[仓库路径](./历史文章/Dash2.16版本新特性介绍)
 - [Dash 2.17版本新特性介绍](https://www.cnblogs.com/feffery/p/18175843) 　✈️[仓库路径](./历史文章/Dash2.17版本新特性介绍)
 - [Dash 2.18版本新特性介绍](https://www.cnblogs.com/feffery/p/18398460) 　✈️[仓库路径](./历史文章/Dash2.18版本新特性介绍)
+- [Dash 2.18.1稳定版本来啦](https://www.cnblogs.com/feffery/p/18412555) 　✈️[仓库路径](./历史文章/Dash2.18.1稳定版本来啦)
+
